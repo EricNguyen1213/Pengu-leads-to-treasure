@@ -1,0 +1,22 @@
+body {
+    background-image: url("https://www.maritime-executive.com/media/images/article/Photos/Cruise_Ships/Cropped/MS_Richard_With_hurtigruten%2016x9.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+.penguins {
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    align-items: stretch;
+}
+
+.CO {
+    color: navy;
+}
+
+.Pen {
+    height: 150px;
+}
